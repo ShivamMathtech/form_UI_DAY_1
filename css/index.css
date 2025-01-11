@@ -1,0 +1,25 @@
+.main-page {
+  height: 100vh;
+  background-color: #e3e6eb;
+}
+.form-box {
+  height: 80vh;
+  width: 60vw;
+  background-color: #fff;
+}
+.right-part {
+  height: 80vh;
+}
+.right-part img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.form h3 {
+  font-size: 40px;
+  font-family: monospace;
+}
+.text-muted {
+  font-size: 12px;
+  font-family: monospace;
+}
